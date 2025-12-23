@@ -1,0 +1,8 @@
+gitignore
+# LabVIEW 项目忽略规则
+Built/
+*.aliases
+*.lvlps
+*.lvuser
+/Debug/
+*.bak
